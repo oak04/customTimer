@@ -1,0 +1,19 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.valuesTable {
+  max-width: 100% !important;
+  overflow: scroll !important;
+}
+
+.clicked {
+  border: solid  #ffc107 3px !important;
+}
+
+.myBtn {
+  width: 100%;
+  margin: 4px;
+}
