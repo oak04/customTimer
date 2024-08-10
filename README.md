@@ -1,4 +1,4 @@
-A custom timer.
+A custom timer
 
 Dev instructions:
 clone
